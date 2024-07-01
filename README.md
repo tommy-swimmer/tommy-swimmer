@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @tommy-swimmer
-- 👀 I’m interested in entropy, philosophy, and music.
-- 🌱 I’m currently learning about civil engineering.
 - 📫 Python and powershell newbie.
 
 <!---
